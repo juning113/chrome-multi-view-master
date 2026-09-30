@@ -1,1 +1,1 @@
-# chrome-dual-view
+# Chrome Multi View Master
