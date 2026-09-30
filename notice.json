@@ -1,5 +1,12 @@
 {
-  "version": "1.4.0",
-  "download": "https://github.com/juning113/chrome-dual-view/releases",
-  "notice": { "id": "", "title": "", "body": "" }
+  "version": "1.7.0",
+  "download": "https://github.com/juning113/chrome-multi-view-master/releases/download/v1.7.0/Chrome-Multi-View-Master.zip",
+  "notices": [
+    {
+      "id": "n1",
+      "date": "2026-09-30",
+      "title": "크롬 멀티 뷰 마스터를 받아 주셔서 고맙습니다",
+      "body": "쓰다가 불편한 점이나 바랐으면 하는 기능이 있으면 블로그로 알려 주세요."
+    }
+  ]
 }
